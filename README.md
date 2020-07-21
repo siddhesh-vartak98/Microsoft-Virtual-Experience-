@@ -19,7 +19,7 @@
  3. Discover the importance of your personal brand: Identify the personal brand attributes you want to be recognised for.
  4. Realize the impact of a positive first impression: Deliver a positive impression to your target audience. Please note that this task will require you to record a video clip, as such, please be mindful that your device may 'request access to your camera’ for the purposes of completing the task.
 
-# #Task 5 - Work Ready Skills
+## Task 5 - Work Ready Skills
  1. Discover the value of applying a Growth Mindset to everything you do: Share an example of applying a Growth Mindset. Please note that this task will require you to record a video clip, as such, please be mindful that your device may 'request access to your camera’ for the purposes of completing the task.
  2. Develop curious thinking to support a Growth Mindset: Use your curiosity to learn more about Microsoft.
  3. Learn the value of positive self-talk (bonus task): Change your self-talk from negative to positive.
